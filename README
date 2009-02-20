@@ -1,0 +1,17 @@
+#More nicely formatted README coming soon.
+
+Trowl is a simple notification application that displays Growl messages
+based on twitter updates.
+
+Dependencies:
+    python twitter module - http://code.google.com/p/python-twitter/
+    Growl Python module - http://growl.info/documentation/developer/python-support.php
+
+TODO:
+    - GUI Interface
+    - Separate out authentication data
+    - User Image support
+    - Notification sound support
+    - Growl preference support
+
+
